@@ -4,7 +4,7 @@ Este repositorio forma parte del desarrollo del sistema **CAIC (Control Académi
 
 # 🎯 Objetivo del Proyecto
 
-Desarrollar una solución digital Para Android que permita:
+Desarrollar una solución digital para Android que permita:
 
 - Automatizar procesos administrativos y académicos.
 - Facilitar la gestión de estudiantes, docentes y personal administrativo.
