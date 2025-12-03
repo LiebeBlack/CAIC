@@ -1,4 +1,4 @@
- CAIC — Proyecto Universitario
+ C.A.I.C — Proyecto Universitario
 
 Este repositorio forma parte del desarrollo del sistema **CAIC (Control Académico Integral y Coordinado)**, diseñado para atender necesidades administrativas y académicas de alta relevancia en la **Universidad Bolivariana de Venezuela**, sede **Nueva Esparta**, ubicada en **Isla Margarita, Porlamar**, dentro del **Eje Geopolítico Gran Mariscal de Ayacucho**.
 
